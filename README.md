@@ -9,9 +9,9 @@ optical properties, and machine-learned force fields.
 
 ## About
 
-I work with VASP for DFT calculations on materials — bulk relaxations,
+I work with VASP for DFT calculations on materials bulk relaxations,
 surface slabs, magnetic oxides, band structures, phonon dispersions,
-hybrid functionals — and the same setup questions come up every project:
+hybrid functionals and the same setup questions come up every project:
 which ISMEAR for this system, how to set MAGMOM for antiferromagnetic
 ordering, what ISIF controls what, why the electronic loop won't converge,
 how to pick the right POTCAR variant. This skill teaches Claude all of
